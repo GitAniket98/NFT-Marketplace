@@ -1,4 +1,4 @@
 # NFT-Marketplace
 
-Creating an NFT marketplace.
+Creating an NFT marketplace. 
 Still in development phase...
